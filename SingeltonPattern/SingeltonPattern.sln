@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingeltonPattern", "SingeltonPattern\SingeltonPattern.csproj", "{DF4142FB-2653-4586-8A73-DDCAA4CAF4E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingeltonPattern", "SingeltonPattern\SingeltonPattern.csproj", "{54CA3E04-52BF-41E4-BA01-389F49EBD38C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF4142FB-2653-4586-8A73-DDCAA4CAF4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF4142FB-2653-4586-8A73-DDCAA4CAF4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF4142FB-2653-4586-8A73-DDCAA4CAF4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF4142FB-2653-4586-8A73-DDCAA4CAF4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CA3E04-52BF-41E4-BA01-389F49EBD38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CA3E04-52BF-41E4-BA01-389F49EBD38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CA3E04-52BF-41E4-BA01-389F49EBD38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CA3E04-52BF-41E4-BA01-389F49EBD38C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {07617EE5-DA93-41BA-BD17-23D8DD3A97A2}
+		SolutionGuid = {2883A5DC-82FA-43AA-AB31-8714D62C8F69}
 	EndGlobalSection
 EndGlobal

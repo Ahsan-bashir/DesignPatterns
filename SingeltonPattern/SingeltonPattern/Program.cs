@@ -1,7 +1,19 @@
-﻿internal class Program
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SingeltonPattern
 {
-    private static void Main(string[] args)
+     class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Singelton.CreateInstance();  // Should Create Instace  
+            Singelton.CreateInstance();  // Should NOT Create Instance
+            Singelton.CreateInstance();  // Should NOT Create Instance
+
+        }
     }
 }

@@ -1,0 +1,7 @@
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\SingeltonPattern\SingeltonPattern\bin\Debug\SingeltonPattern.exe.config
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\SingeltonPattern\SingeltonPattern\bin\Debug\SingeltonPattern.exe
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\SingeltonPattern\SingeltonPattern\bin\Debug\SingeltonPattern.pdb
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\SingeltonPattern\SingeltonPattern\obj\Debug\SingeltonPattern.csproj.AssemblyReference.cache
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\SingeltonPattern\SingeltonPattern\obj\Debug\SingeltonPattern.csproj.CoreCompileInputs.cache
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\SingeltonPattern\SingeltonPattern\obj\Debug\SingeltonPattern.exe
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\SingeltonPattern\SingeltonPattern\obj\Debug\SingeltonPattern.pdb
