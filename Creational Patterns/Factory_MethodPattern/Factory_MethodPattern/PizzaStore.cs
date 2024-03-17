@@ -16,7 +16,7 @@ namespace Factory_MethodPattern
 
         public Pizza OrderPizza(String type)
         {
-            Pizza pizza = factory.CreatePizza(type);
+            Pizza pizza=factory.CreatePizza(type);
             pizza.Prepare();
             pizza.Bake();
             pizza.Cut();

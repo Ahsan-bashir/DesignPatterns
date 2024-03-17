@@ -1,8 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Security.Policy;
+using System.Xml.Linq;
 
 namespace Factory_MethodPattern
 {
+        /*
+        This class defines the blueprint for all concrete pizza types.
+        It has member variables for name, dough, sauce, and a list of toppings.
+        It also defines methods for preparing, baking, cutting, and boxing the pizza (common functionalities for all pizzas).
+        */
     internal abstract class Pizza
     {
         protected String name;
