@@ -1,0 +1,7 @@
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\Structural Patterns\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\Structural Patterns\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\Structural Patterns\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.AssemblyReference.cache
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+F:\Uni Courses Data\6th Smester Subjects\SCD (Software Construction & Design)\DesignPatterns\Structural Patterns\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
