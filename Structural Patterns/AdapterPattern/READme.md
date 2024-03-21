@@ -1,4 +1,4 @@
-# Adapter Pattern Explained
+# Adapter Pattern 
 
 The Adapter Pattern is a software design pattern that allows you to make incompatible interfaces work together. Imagine you have two different tools or systems that don't speak the same language. The adapter acts as a translator, converting the requests of one system into a format that the other system understands.
 
